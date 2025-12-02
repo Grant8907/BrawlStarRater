@@ -3,7 +3,7 @@ import json
 import re
 
 IMAGE_DIR = "brawler_images_default"
-OUTPUT_HTML = "brawler_rater.html"
+OUTPUT_HTML = "index.html"
 
 IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
 
